@@ -1,2 +1,5 @@
-# heroku-workshop
-This is where we can work together to plan out a top notch workshop at GitHub Universe!
+## Tentative topic: Heroku Pipelines
+
+Tentative Time: 3:00-4:30
+Length: 90 minutes
+Format: Hands-on, building, interactive

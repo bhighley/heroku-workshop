@@ -6,4 +6,4 @@
 
 Abstract:
 
-Does your team have a deployment strategy? Learn how Heroku Pipelines can help your team deploy with confidence, using tools like Review Apps, and built-in Staging and Production stages, all the while integrating with your existing workflow. Participants of this session will stand up their own Heroku Pipeline and will sink their hands into each of the stages involved. 
+How does your team handle deployment? Whatever your existing GitHub workflow is, Heroku Pipelines can fully integrate with your environment for improved confidence and seamless strategy. Participants of this session will be able to stand up a full Heroku Pipeline, sinking their hands into tools like Review Apps, and making GitHub steps for Staging and Production fully automated and effortless. 

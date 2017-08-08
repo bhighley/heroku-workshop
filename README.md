@@ -1,4 +1,4 @@
-## Title: Heroku Pipelines
+## Title: How High Performing Software Teams Use Heroku Pipelines for Continuous Delivery
 
 - Tentative Time: 3:00-4:30
 - Length: 90 minutes
@@ -6,4 +6,4 @@
 
 Abstract:
 
-How does your team handle deployment? Whatever your existing GitHub workflow is, Heroku Pipelines can fully integrate with your environment for improved confidence and seamless strategy. Participants of this session will be able to stand up a full Heroku Pipeline, sinking their hands into tools like Review Apps, and making GitHub steps for Staging and Production fully automated and effortless. 
+Continuous Integration and continuous delivery are the key to code quality, product agility, and engineering velocity. In this session, you’ll learn how your team can use GitHub, Heroku Pipelines, and Heroku CI to make continuous delivery simple and flexible. The Git-based methodology provides for a pipeline through which code begins as a fully executable pull request, goes through automated unit and integration tests, is automatically merged to test and staging apps, and is then deployed to production with a single click. Some customers are able to deploy features and fixes up to 500+ times a week, with very few rollbacks from production.

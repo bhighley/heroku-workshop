@@ -1,8 +1,6 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/3791941/31036931-072760fe-a534-11e7-8cd7-0565bdc2727c.png" width="100" height="60">
+<img src="https://user-images.githubusercontent.com/3791941/31036931-072760fe-a534-11e7-8cd7-0565bdc2727c.png" width="100" height="60">
 
-  <h3 align="center">How High Performing Teams use Heroku Flow<br></h3>
-</p>
+# How High Performing Teams use Heroku Flow
 
 - Tentative Time: 3:00-4:30
 - Length: 90 minutes
@@ -12,7 +10,7 @@
 
 ### @joshwlewis
 
-<img src="/universeworkshops/heroku-workshop/raw/master/images/joshwlewis.png" alt="Josh W Lewis" width="100" height="60">
+<img src="/images/joshwlewis.png" alt="Josh W Lewis" width="100">
 
 Josh W Lewis is a multi-discipline engineer who has been building
 web applications and development tooling for nearly a decade. Lately, he's

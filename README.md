@@ -29,7 +29,7 @@ Requirement | Mandatory? | Where to get it | Comments
 An internet connection | Yes | Conference WiFi |
 A modern web browser | Yes | [google.com/chrome](https://www.google.com/chrome) |
 A Heroku account | Yes | [signup.heroku.com](https://signup.heroku.com) | 
-A verified Heroku Account | No | [dashboard.heroku.com/account/billing](https://dashboard.heroku.com/account/billing) | A credit card is required for advanced features like addons and CI.
+A verified Heroku Account | No | [dashboard.heroku.com/account/billing](https://dashboard.heroku.com/account/billing) | A credit card is required for advanced features like addons and CI. This demo uses free resources.
 
 ## Resources
 

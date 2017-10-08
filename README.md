@@ -4,8 +4,6 @@
   <h3 align="center">How High Performing Teams use Heroku Flow<br></h3>
 </p>
 
-# How High Performing Software Teams Use Heroku Pipelines for Continuous Delivery
-
 - Tentative Time: 3:00-4:30
 - Length: 90 minutes
 - Format: Hands-on, building, interactive

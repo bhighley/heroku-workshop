@@ -24,12 +24,17 @@ Continuous Integration and continuous delivery are the key to code quality, prod
 
 ## Prerequisites
 
-2. An internet connection.
-2. A web browser.
-3. A Heroku account -- Get one free, [here](https://signup.heroku.com/).
-4. (optional, reccomended) Verify your Heroku account with a credit card [here](https://dashboard.heroku.com/account/billing). We'll be using free resources, but the advanced workflows require verification.
-5. A GitHub account -- Get one free, [here](https://github.com/).
+Requirement | Mandatory? | Where to get it | Comments
+--- | --- | --- | ---
+An internet connection | Yes | Conference WiFi |
+A modern web browser | Yes | [google.com/chrome](https://www.google.com/chrome) |
+A Heroku account | Yes | [signup.heroku.com](https://signup.heroku.com) | 
+A verified Heroku Account | No | [dashboard.heroku.com/account/billing](https://dashboard.heroku.com/account/billing) | A credit card is required for advanced features like addons and CI.
 
+## Resources
+
+- [Slides](https://docs.google.com/presentation/d/11kTyYGi9GdAUgRxz_R0ln8IDijYrX1lU454puigdEIE/edit?usp=sharing)
+- Demo Repository: [heroku/memefab](https://github.com/heroku/memefab)
 
 ## Outline
 

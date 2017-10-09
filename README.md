@@ -33,8 +33,11 @@ A verified Heroku Account | No | [dashboard.heroku.com/account/billing](https://
 
 ## Resources
 
-- [Slides](https://docs.google.com/presentation/d/11kTyYGi9GdAUgRxz_R0ln8IDijYrX1lU454puigdEIE/edit?usp=sharing)
-- Demo Repository: [heroku/memefab](https://github.com/heroku/memefab)
+Resource | Where to get it
+--- | ---
+Slides | [hrku.co/universe-workshop](http://hrku.co/universe-workshop)
+Demo Repository | [heroku/memefab](https://github.com/heroku/memefab)
+Demo App | [memefab.herokuapp.com](https://memefab.herokuapp.com)
 
 ## Outline
 
